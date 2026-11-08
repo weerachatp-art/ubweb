@@ -1,0 +1,162 @@
+[
+    {
+        "app_id": "MCU-UB-2570-0001",
+        "citizen_id": "1349900123456",
+        "applicant_type": "monk",
+        "title_name": "พระ",
+        "first_name": "สมหมาย",
+        "last_name": "อิทฺธิญาโณ",
+        "phone": "081-234-5678",
+        "email": "sommai.it@mcu.ac.th",
+        "line_id": "sommai_ub",
+        "education_level": "ป.ธ.๓ (เปรียญธรรม ๓ ประโยค)",
+        "study_program": "ภาคปกติ (วันจันทร์ - วันศุกร์)",
+        "address": "วัดป่าประดู่ ตำบลกระโสบ อำเภอเมือง จังหวัดอุบลราชธานี 34000",
+        "status": "step4_enrolled",
+        "status_text": "ขึ้นทะเบียนนิสิตเรียบร้อยแล้ว (สถานะ: นิสิตปัจจุบัน)",
+        "interview_result": "ผ่านการคัดเลือก (คะแนนสอบสัมภาษณ์: 92\/100)",
+        "interview_date": "๑๕ พฤษภาคม ๒๕๗๐",
+        "student_id": "6701201002",
+        "enrollment_date": "2026-09-22 02:32:11",
+        "registered_courses": [
+            {
+                "code": "๐๐๐ ๑๓๕",
+                "name": "พระไตรปิฎกศึกษา (Tipitaka Studies)",
+                "credits": 3
+            },
+            {
+                "code": "๐๐๐ ๑๓๙",
+                "name": "เทศนาและปาฐกถาธรรม (Homiletics and Dhamma Discourse)",
+                "credits": 2
+            },
+            {
+                "code": "๐๐๐ ๑๕๔",
+                "name": "สมาธิและวิปัสสนากรรมฐาน ๑ (Meditation and Vipassana Bhavana I)",
+                "credits": 2
+            },
+            {
+                "code": "๑๐๑ ๑๐๑",
+                "name": "พระพุทธศาสนากับวิทยาศาสตร์ (Buddhism and Science)",
+                "credits": 3
+            },
+            {
+                "code": "๑๐๑ ๓๑๐",
+                "name": "พระพุทธศาสนากับเทคโนโลยีปัญญาประดิษฐ์ (AI for Buddhism)",
+                "credits": 3
+            },
+            {
+                "code": "๐๐๐ ๑๔๕",
+                "name": "ภาษาบาลีเบื้องต้น (Basic Pali)",
+                "credits": 3
+            },
+            {
+                "code": "๐๐๐ ๑๕๑",
+                "name": "การเขียนเชิงวิชาการทางพระพุทธศาสนา (Academic Writing)",
+                "credits": 3
+            }
+        ],
+        "created_at": "2026-05-10 10:30:00"
+    },
+    {
+        "app_id": "MCU-UB-2570-0002",
+        "citizen_id": "1349900987654",
+        "applicant_type": "layman",
+        "title_name": "นาย",
+        "first_name": "วิชัย",
+        "last_name": "ใจมั่น",
+        "phone": "089-876-5432",
+        "email": "wichai.j@gmail.com",
+        "line_id": "wichai_jm",
+        "education_level": "มัธยมศึกษาตอนปลาย (ม.6)",
+        "study_program": "ภาคพิเศษ (วันเสาร์ - วันอาทิตย์)",
+        "address": "124 หมู่ 5 ตำบลในเมือง อำเภอเมือง จังหวัดอุบลราชธานี 34000",
+        "status": "step2_verified",
+        "status_text": "ตรวจสอบเอกสารผ่านแล้ว (รอนัดหมายวันสอบสัมภาษณ์)",
+        "interview_result": "รอการสอบสัมภาษณ์",
+        "interview_date": "๒๐ พฤษภาคม ๒๕๗๐ เวลา ๐๙.๐๐ - ๑๑.๓๐ น. ณ อาคารเรียนรวม ๒๐๑",
+        "student_id": "",
+        "enrollment_date": "",
+        "registered_courses": [],
+        "created_at": "2026-05-12 14:15:00"
+    },
+    {
+        "app_id": "MCU-UB-2570-0003",
+        "citizen_id": "1349900555555",
+        "applicant_type": "monk",
+        "title_name": "พระมหาสมเกียรติ",
+        "first_name": "สุทฺธิญาโณ",
+        "last_name": "(วงศ์คำ)",
+        "phone": "086-555-1234",
+        "email": "somkiat.s@mcu.ac.th",
+        "line_id": "somkiat_mcu",
+        "education_level": "ป.ธ.๕ (เปรียญธรรม ๕ ประโยค)",
+        "study_program": "ภาคปกติ (วันจันทร์ - วันศุกร์)",
+        "address": "วัดหนองบัว ตำบลในเมือง อำเภอเมือง จังหวัดอุบลราชธานี 34000",
+        "status": "step4_enrolled",
+        "status_text": "ขึ้นทะเบียนนิสิตเรียบร้อยแล้ว (สถานะ: นิสิตปัจจุบัน)",
+        "interview_result": "ผ่านการคัดเลือก (คะแนนสอบสัมภาษณ์: 96\/100)",
+        "interview_date": "๑๕ พฤษภาคม ๒๕๗๐",
+        "student_id": "6701201001",
+        "enrollment_date": "2026-05-25 09:40:12",
+        "registered_courses": [
+            {
+                "code": "๐๐๐ ๑๓๕",
+                "name": "พระไตรปิฎกศึกษา (Tipitaka Studies)",
+                "credits": 3
+            },
+            {
+                "code": "๐๐๐ ๑๓๙",
+                "name": "เทศนาและปาฐกถาธรรม (Homiletics and Dhamma Discourse)",
+                "credits": 2
+            },
+            {
+                "code": "๐๐๐ ๑๕๔",
+                "name": "สมาธิและวิปัสสนากรรมฐาน ๑ (Meditation and Vipassana Bhavana I)",
+                "credits": 2
+            },
+            {
+                "code": "๑๐๑ ๑๐๑",
+                "name": "พระพุทธศาสนากับวิทยาศาสตร์ (Buddhism and Science)",
+                "credits": 3
+            },
+            {
+                "code": "๑๐๑ ๓๑๐",
+                "name": "พระพุทธศาสนากับเทคโนโลยีปัญญาประดิษฐ์ (AI)",
+                "credits": 3
+            },
+            {
+                "code": "๐๐๐ ๑๔๕",
+                "name": "ภาษาบาลีเบื้องต้น (Basic Pali)",
+                "credits": 3
+            },
+            {
+                "code": "๐๐๐ ๑๕๑",
+                "name": "การเขียนเชิงวิชาการทางพระพุทธศาสนา (Academic Writing)",
+                "credits": 3
+            }
+        ],
+        "created_at": "2026-05-08 11:20:00"
+    },
+    {
+        "app_id": "MCU-UB-2570-0004",
+        "citizen_id": "1349900888999",
+        "applicant_type": "monk",
+        "title_name": "พระ",
+        "first_name": "ประเสริฐ",
+        "last_name": "เขมจิตฺโต",
+        "phone": "085-111-2222",
+        "email": "prasert@test.ac.th",
+        "line_id": "prasert_ub",
+        "education_level": "มัธยมศึกษาตอนปลาย (ม.6)",
+        "study_program": "ภาคปกติ (วันจันทร์ - วันศุกร์)",
+        "address": "วัดสุปัฏนารามวรวิหาร อำเภอเมือง จังหวัดอุบลราชธานี",
+        "status": "step1_submitted",
+        "status_text": "ยื่นใบสมัครสำเร็จ (เจ้าหน้าที่กำลังตรวจสอบคุณสมบัติและเอกสาร)",
+        "interview_result": "รอการพิจารณาตรวจสอบเอกสาร",
+        "interview_date": "จะแจ้งให้ทราบหลังการตรวจสอบเอกสาร",
+        "student_id": "",
+        "enrollment_date": "",
+        "registered_courses": [],
+        "created_at": "2026-09-22 02:32:15"
+    }
+]
