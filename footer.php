@@ -126,5 +126,23 @@ $visitor_count = get_visitor_count();
             }
         });
     }
+
+    // ระบบซิงค์ตัวนับผู้เข้าชม สะสมต่อเนื่อง ไม่รีเซ็ต
+    try {
+        var counterEl = document.querySelector('.counter-number');
+        if (counterEl) {
+            var serverVal = parseInt(counterEl.textContent.replace(/,/g, ''), 10) || 1360;
+            var localMax = parseInt(localStorage.getItem('ubweb_visitor_max') || '0', 10);
+            var pageLoads = parseInt(sessionStorage.getItem('ubweb_session_loads') || '0', 10) + 1;
+            sessionStorage.setItem('ubweb_session_loads', pageLoads);
+
+            var displayVal = Math.max(serverVal, localMax);
+            if (pageLoads > 1) {
+                displayVal += 1;
+            }
+            localStorage.setItem('ubweb_visitor_max', displayVal);
+            counterEl.textContent = Number(displayVal).toLocaleString('en-US');
+        }
+    } catch (err) {}
 })();
 </script>
